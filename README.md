@@ -1,2 +1,2 @@
 # python-automation
-Python Automation 
+Python Automation code will be developed and deployed as it is tested and ready
